@@ -3,7 +3,7 @@
 """
 Created on Wed Jun 14 17:42:02 2023
 
-@author: djhoannapiolo
+@author: david piolo
 """
 
 '''Use the formula Pmt = r * PV/(1-(1+r)**-n)
